@@ -13,7 +13,7 @@
 需要 Apple Silicon Mac、macOS 13 或更高版本，以及 Xcode 或 Command Line Tools。
 
 ```sh
-./build.sh
+sh ./build.sh
 open dist/BeijingClock.app
 ```
 
